@@ -18,7 +18,7 @@ Fonctionnalités
 
 ## Installation et Lancement
 
-    Clonez le projet GitHub à l'adresse : [URL du projet GitHub].
+    Clonez le projet GitHub à l'adresse : [https://github.com/luis-doudeau/URBAN-MARGINAL](https://github.com/luis-doudeau/URBAN-MARGINAL.git).
     Ouvrez le dossier URBAN-MARGINAL dans votre environnement de développement Java.
     Lancez le projet depuis ce dossier.
 
