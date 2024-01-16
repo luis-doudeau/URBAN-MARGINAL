@@ -14,7 +14,9 @@ Fonctionnalités
 ## Configuration Requise
 
     Java 8 ou supérieur.
-    Connexion Internet stable pour le mode multijoueur.
+    Vous pouvez également modifier l'apparence du jeu en modifiant les textures et certaines constantes.
+    Vous trouverez les textures dans le dossier média.
+    Pour les constantes globales, telles que les ports, les chemins d'accès aux fichiers média, et les tailles des éléments du jeu, sont modifiables dans le fichier Global.java.
 
 ## Installation et Lancement
 
