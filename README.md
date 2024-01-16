@@ -20,13 +20,16 @@ Fonctionnalités
 
     Clonez le projet GitHub à l'adresse : [https://github.com/luis-doudeau/URBAN-MARGINAL](https://github.com/luis-doudeau/URBAN-MARGINAL.git).
     Ouvrez le dossier URBAN-MARGINAL dans votre environnement de développement Java.
-    Lancez le projet depuis ce dossier.
+    Compilez le projet : javac -d bin -sourcepath UrbanMarginal/src UrbanMarginal/src/**/*.java
+    Lancez le projet depuis le dossier src.
+    Avec la commande suivante : java -cp bin/ urbanmarginal.UrbanMarginal
 
 ## Comment Jouer
 
-    Connectez-vous au serveur après le lancement du jeu.
+    Vous devez au lencement du jeu choissir de démarrer un serveur pour pouvoir y connecter les clients.
+    Ensuite, une fois qu'un serveur est lancé, vous pouvez le rejoindre en tant que client, vous aurez besoin de saisir l'adresse IP du serveur pour vous y connecter.
     Choisissez votre personnage.
-    Utilisez les commandes du jeu pour vous déplacer, attaquer et interagir avec les autres joueurs.
+    Vous pouvez vous déplacer avec les fleches du clavier et attaquer les autres joueurs avec la touche espace.
     Surveillez votre jauge de vie et celle des adversaires.
 
 
