@@ -28,7 +28,7 @@ Fonctionnalités
 
 ## Comment Jouer
 
-    Vous devez au lencement du jeu choissir de démarrer un serveur pour pouvoir y connecter les clients.
+    Vous devez au lancement du jeu choisir de démarrer un serveur pour pouvoir y connecter les clients.
     Ensuite, une fois qu'un serveur est lancé, vous pouvez le rejoindre en tant que client, vous aurez besoin de saisir l'adresse IP du serveur pour vous y connecter.
     Choisissez votre personnage.
     Vous pouvez vous déplacer avec les fleches du clavier et attaquer les autres joueurs avec la touche espace.
