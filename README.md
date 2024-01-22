@@ -58,7 +58,7 @@ Sockets (Permet la communication réseau entre machines en Java)
 GitHub (Plateforme de gestion de développement collaboratif et de contrôle de version basée sur Git)
 
 ## Contributors : 
-DOUDEAU Luis
-DE NARDI Lenny
-JORY Jonathan
+DOUDEAU Luis\
+DE NARDI Lenny\
+JORY Jonathan\
 Groupe 31A
